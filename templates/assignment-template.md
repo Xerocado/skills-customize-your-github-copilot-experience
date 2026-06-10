@@ -1,33 +1,22 @@
-# 📘 Assignment: [Assignment Title]
+# Project Description
 
-## 🎯 Objective
+This project is an educational website for sharing homework assignments and coding exercises with students. Students can browse, view, and download assignments directly from the portal.
 
-[Brief description of what the student will build or accomplish in this assignment]
+## Project Structure
 
-## 📝 Tasks
+- [`assignments/`](../assignments/) Each homework assignment is stored in its own subfolder with a consistent structure.
+- [`templates/`](../templates/) Reusable templates for new content
+- [`assets/`](../assets/) Contains the website assets including CSS, JavaScript, images, and configuration files
+- [`index.html`](../index.html) The main website page that serves as a static portal for browsing and viewing assignments. Content is configurable via [`config.json`](../config.json) file to dynamically generate assignment lists and details.
 
-### 🛠️	[Task 1 Title]
+## Project Guidelines
 
-#### Description
-[Description what needs to be done by the student for this task]
+- Maintain consistent styling across all pages
+- Keep file and folder names descriptive and organized
 
-#### Requirements
-Completed program should:
+## Educational Standards
 
-- [Requirement 1]
-- [Requirement 2]
-- [Requirement 3]
+When generating content for this project:
 
-
-### 🛠️	[Task 2 Title]
-
-#### Description
-[Description what needs to be done by the student for this task]
-
-#### Requirements
-Completed program should:
-
-- [Requirement 1]
-- [Requirement 2]
-- [Requirement 3]
-
+- **Learning-focused**: All content should be designed with clear learning objectives and appropriate difficulty levels
+- **Student-friendly**: Use clear, encouraging language that motivates students
